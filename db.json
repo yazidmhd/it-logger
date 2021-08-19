@@ -1,0 +1,35 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Change network card in server #01",
+      "attention": false,
+      "tech": "Jill Hall",
+      "date": "2021-08-11T06:28:00.041Z"
+    },
+    {
+      "id": 2,
+      "message": "Hard drive failed in workstation 3",
+      "attention": true,
+      "tech": "Sam Smith",
+      "date": "2021-08-11T06:28:10.922Z"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Jill",
+      "lastName": "Hall"
+    }
+  ]
+}
